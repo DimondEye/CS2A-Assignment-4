@@ -1,5 +1,5 @@
 //
-//  By Chen Shi - Assignment 4
+//  Assignment 4
 //
 //  This program will simulate a candy bar locker. Users can purchase
 //  or consume candy bars.
